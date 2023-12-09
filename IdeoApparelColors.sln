@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6F2C9666-578E-409E-A0AB-62F36BDE6D40}") = "IdeoApparelColors", "Source\IdeoApparelColors.csproj", "{94CFB57F-4FE5-4D37-80D3-C7613D228859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CFB57F-4FE5-4D37-80D3-C7613D228859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CFB57F-4FE5-4D37-80D3-C7613D228859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CFB57F-4FE5-4D37-80D3-C7613D228859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CFB57F-4FE5-4D37-80D3-C7613D228859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245A9BD6-6303-441B-9615-4771C1B329EF}
+	EndGlobalSection
+EndGlobal
